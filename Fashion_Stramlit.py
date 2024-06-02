@@ -12,7 +12,7 @@ model = tf.keras.models.Sequential([
 
 # Load the model weights
 try:
-    model.load_weights('./checkpoints_2/my_model_weights.h5')
+    model.load_weights('my_model_weights.h5')
 except Exception as e:
     st.error(f"Error loading the model weights: {e}")
 
