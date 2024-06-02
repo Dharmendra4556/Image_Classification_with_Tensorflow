@@ -39,9 +39,13 @@ The Streamlit app allows users to upload an image and see the prediction. The ap
 
 ## Files
 
-- `app.py`: The main script for running the Streamlit app.
+- `Fashion_Streamlit.py`: The main script for running the Streamlit app.
 - `my_model_weights.h5`: The pre-trained model weights (ensure this file is present before running the app).
 
 ## Acknowledgements
 
 This project uses the Fashion MNIST dataset from [TensorFlow datasets](https://www.tensorflow.org/datasets/catalog/fashion_mnist).
+
+## Contact
+
+For more information, visit my [LinkedIn profile](https://www.linkedin.com/in/dharmendra-behara-230388239/).
