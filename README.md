@@ -40,6 +40,7 @@ The Streamlit app allows users to upload an image and see the prediction. The ap
 ## Files
 
 - `Fashion_Streamlit.py`: The main script for running the Streamlit app.
+- `model_creation.ipynb`: Jupyter notebook file containing the code to create and train the model.
 - `my_model_weights.h5`: The pre-trained model weights (ensure this file is present before running the app).
 
 ## Acknowledgements
